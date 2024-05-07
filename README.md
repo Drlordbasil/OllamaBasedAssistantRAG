@@ -1,0 +1,3 @@
+Prereq:
+ollama
+chromadb
